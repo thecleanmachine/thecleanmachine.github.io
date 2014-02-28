@@ -28,7 +28,7 @@ body { -webkit-font-smoothing: antialiased; background-color: white; color: #4d4
 
 @media (min-width: 1000px) { article { margin-right: 38.2%; } }
 @media (max-width: 1000px) { article { position: absolute; top: 38.2%; width: 100%; } }
-@media (max-width: 1000px) { article li { font-size: 16px; line-height: 12px; margin: 0 auto 24px auto; max-width: 600px; padding-left: 24px; padding-right: 24px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
+@media (max-width: 1000px) { article li { font-size: 16px; line-height: 24px; margin: 0 auto 24px auto; max-width: 600px; padding-left: 24px; padding-right: 24px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
 @media (min-width: 1000px) { article li { font-size: 16px; line-height: 24px; margin: 0 auto 32px auto; max-width: 600px; padding-left: 64px; padding-right: 64px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
 @media (max-width: 1000px) { article p { font-size: 16px; line-height: 24px; margin: 0 auto 24px auto; max-width: 600px; padding-left: 24px; padding-right: 24px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
 @media (min-width: 1000px) { article p { font-size: 20px; line-height: 32px; margin: 0 auto 32px auto; max-width: 600px; padding-left: 64px; padding-right: 64px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
