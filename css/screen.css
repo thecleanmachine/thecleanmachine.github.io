@@ -27,7 +27,7 @@ strong { font-weight: 600; }
 body { -webkit-font-smoothing: antialiased; background-color: white; color: #4d4d4d; font-family: "freight-sans-pro", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; }
 
 @media (min-width: 1000px) { article { margin-right: 38.2%; } }
-@media (max-width: 1000px) { article { position: absolute; top: 38.2%; width: 100%; } }
+@media (max-width: 1000px) { article { position: absolute; top: 15.0%; width: 100%; } }
 @media (max-width: 1000px) { article li { font-size: 16px; line-height: 24px; margin: 0 auto 16px auto; max-width: 600px; padding-left: 24px; padding-right: 24px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
 @media (min-width: 1000px) { article li { font-size: 16px; line-height: 24px; margin: 0 auto 16px auto; max-width: 600px; padding-left: 64px; padding-right: 64px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
 @media (max-width: 1000px) { article p { font-size: 16px; line-height: 24px; margin: 0 auto 24px auto; max-width: 600px; padding-left: 24px; padding-right: 24px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; } }
@@ -39,7 +39,7 @@ article p:first-of-type { color: #1a1a1a; font-weight: 300; }
 @media (min-width: 1000px) { article .header { font-size: 20px; line-height: 24px; margin-top: 24px; margin-bottom: 16px; } }
 
 @media (min-width: 1000px) { figure { height: 100%; max-width: 600px; width: 38.2%; position: fixed; right: 0; top: 0; } }
-@media (max-width: 1000px) { figure { height: 38.2%; max-height: 600px; width: 100%; position: absolute; right: 0; top: 0; } }
+@media (max-width: 1000px) { figure { height: 15.0%; max-height: 600px; width: 100%; position: absolute; right: 0; top: 0; } }
 
 figcaption { -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; color: rgba(255, 255, 255, 0.6); height: 100%; line-height: 20px; position: relative; width: 100%; background-image: url('http://distilleryimage5.ak.instagram.com/a0198d987c9611e39b501226303f8d71_8.jpg'); background-position: center center; background-repeat: no-repeat; font-size: 10px; font-weight: 300; }
 @media (min-width: 1000px) { figcaption { -webkit-box-shadow: rgba(0, 0, 0, 0.2) 1px 0 0 0 inset; -moz-box-shadow: rgba(0, 0, 0, 0.2) 1px 0 0 0 inset; box-shadow: rgba(0, 0, 0, 0.2) 1px 0 0 0 inset; } }
